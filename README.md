@@ -6,4 +6,14 @@ Kobe City in Japan Weather is compared the Global Trend
 
 # Analysis and Visualizations
 
- <img src="GroupsProportions.png" width=500>
+
+ <img src="kobe city.png" width=500>
+ <img src="globalVskove.png" width=500>
+ 
+ # Import Documents
+ 
+* Analysis Report: Exploring Weather Trends-Maryse .pdf
+* Dataset : Weather Trends-Udacity - Global.csv
+
+ ## References and Citations
+ No particular reference was used
